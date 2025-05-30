@@ -1,4 +1,5 @@
 pub mod tickets;
 pub mod new_ticket;
-pub mod status;
-pub mod author;
+pub mod ticket_status;
+pub mod user;
+pub mod user_role;
